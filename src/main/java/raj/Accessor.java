@@ -12,5 +12,8 @@ public class Accessor {
         corolla.getLocation();
         corolla.printEstablishedYr();
         corolla.printCompanyName();
+       // if static -> <className>.method/variable
+        new StaticExample().add();
+        StaticExample.square();
     }
 }
