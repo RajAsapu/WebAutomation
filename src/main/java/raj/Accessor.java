@@ -15,5 +15,9 @@ public class Accessor {
        // if static -> <className>.method/variable
         new StaticExample().add();
         StaticExample.square();
+        myInterface myInterface = new InterfaceChild();
+        myInterface.getName();
+        myInterface = new InterfaceChild2();
+        myInterface.getName();
     }
 }
