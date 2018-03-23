@@ -22,3 +22,9 @@ eg: 1.Open google
     6.redo the first 3 steps
     7.Click on 3rd link
     8.so on
+
+Task 6: Write a program to print all the hyper link text on searching with 'selenium' in google.
+
+Task 7: Write a program to login to the https://www.phptravels.net/ using below credentails
+        Username : user@phptravels.com
+        Password : demouser
